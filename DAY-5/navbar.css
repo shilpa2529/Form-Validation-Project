@@ -1,0 +1,20 @@
+.grid{
+    background-color: aquamarine;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    text-align:center;
+    height:200px;
+    width:200px;
+    font-size:15px;
+    margin:5px
+}
+.heading{
+    text-align:center;
+    height:60px;
+    font-size:25px;
+    color :black;
+    background-color: bisque;
+    padding: 5px;
+}
